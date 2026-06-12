@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://vermashreyansh580-jpg.github.io/trio-digital-agency/sitemap.xml
